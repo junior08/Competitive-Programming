@@ -1,2 +1,2 @@
 # Competitive-Programming
-A compilation of my work across the different competitive coding platforms.
+A compilation of my work across different competitive coding platforms.
